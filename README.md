@@ -1,6 +1,4 @@
 # pattern-login
 Android pattern login system with laravel 7
 
-Note: Tailwindcss has been used in this project.
-
 ![Screenshot from 2020-05-26 17-14-44](https://user-images.githubusercontent.com/38864124/82894486-77041380-9f74-11ea-97c7-f0ab3fea5395.png)
